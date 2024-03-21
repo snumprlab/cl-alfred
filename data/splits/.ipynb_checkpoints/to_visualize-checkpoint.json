@@ -1,0 +1,86 @@
+{
+  "tests_seen": [
+    {
+      "repeat_idx": 0,
+      "task": "trial_T20190908_131409_193409"
+    },
+    {
+      "repeat_idx": 1,
+      "task": "trial_T20190907_231611_105301"
+    },
+    {
+      "repeat_idx": 0,
+      "task": "trial_T20190909_041707_562433"
+    },
+    {
+      "repeat_idx": 2,
+      "task": "trial_T20190909_004424_399073"
+    },
+    {
+      "repeat_idx": 0,
+      "task": "trial_T20190906_234006_472482"
+    },
+    {
+      "repeat_idx": 2,
+      "task": "trial_T20190908_174632_551228"
+    },
+    {
+      "repeat_idx": 0,
+      "task": "trial_T20190907_074457_868143"
+    },
+    {
+      "repeat_idx": 1,
+      "task": "trial_T20190918_181527_663599"
+    },
+    {
+      "repeat_idx": 2,
+      "task": "trial_T20190909_090729_752389"
+    },
+    {
+      "repeat_idx": 1,
+      "task": "trial_T20190908_102013_922247"
+    }
+  ],
+  "tests_unseen": [
+    {
+      "repeat_idx": 1,
+      "task": "trial_T20190906_184649_964773"
+    },
+    {
+      "repeat_idx": 1,
+      "task": "trial_T20190909_101117_022448"
+    },
+    {
+      "repeat_idx": 2,
+      "task": "trial_T20190909_145844_073286"
+    },
+    {
+      "repeat_idx": 1,
+      "task": "trial_T20190907_163408_411399"
+    },
+    {
+      "repeat_idx": 2,
+      "task": "trial_T20190909_130959_018918"
+    },
+    {
+      "repeat_idx": 0,
+      "task": "trial_T20190907_160807_658218"
+    },
+    {
+      "repeat_idx": 3,
+      "task": "trial_T20190907_152000_603962"
+    },
+    {
+      "repeat_idx": 1,
+      "task": "trial_T20190908_035101_399652"
+    },
+    {
+      "repeat_idx": 0,
+      "task": "trial_T20190907_195032_047862"
+    },
+    {
+      "repeat_idx": 2,
+      "task": "trial_T20190907_041348_432699"
+    }
+  ]
+}
