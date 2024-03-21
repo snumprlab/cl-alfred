@@ -129,7 +129,7 @@ python models/eval/eval_seq2seq.py --gpu      \
     --x_display <x_display>                   \
     --gpu
 ```
-**Note**: All hyperparameters used for the experiments in the paper are set as default.
+**Note**: All hyperparameters used for the experiments in the paper are set as default.<br>
 **Note**: For cpu-only evaluation, remove the option `--gpu`.
 
 If you want to evaluate our model saved in `exp/behavior_il/cama/s1/net_epoch_000002251_look_at_obj_in_light.pth` in the `seen` validation for the current task `look_at_obj_in_light` of the `Behavior-IL` setup trained with a random stream sequence `1`, you may use the command below.
@@ -144,7 +144,7 @@ python models/eval/eval_seq2seq.py                                              
     --x_display 1                                                                     \
     --gpu
 ```
-**Note**: Choose your available display number `x_display`.
+**Note**: Choose your available display number `x_display`.<br>
 **Note**: Adjust your thread number based on your system `num_threads`.
 
 
@@ -200,4 +200,9 @@ GNU GENERAL PUBLIC LICENSE
   year = {2020},
   url  = {https://arxiv.org/abs/1912.01734}
 }
+```
+
+## Acknowlegment
+```
+This work was partly supported by the NRF grant (No.2022R1A2C4002300, 15%) and IITP grants (No.2020-0-01361 (10%, Yonsei AI), No.2021-0-01343 (5%, SNU AI), No.2022-0-00077 (10%), No.2022-0-00113 (20%), No.2022-0-00959 (15%), No.2022-0-00871 (15%), No.2021-0-02068 (5%, AI Innov. Hub), No.2022-0-00951 (5%)) funded by the Korea government (MSIT).
 ```
