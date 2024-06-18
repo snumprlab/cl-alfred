@@ -123,9 +123,9 @@ if __name__ == '__main__':
 
     # CL-ALFRED n_task
     if args.incremental_setup in ['behavior_il']:
-        args.n_task = 7
+        args.n_tasks = 7
     elif args.incremental_setup in ['environment_il']:
-        args.n_task = 4
+        args.n_tasks = 4
     else:
         raise Exception("args.n_task should be either 7 (Behavior-IL) or 4 (Environment-IL).")
 
