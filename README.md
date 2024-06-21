@@ -2,7 +2,7 @@
 <a href="https://bhkim94.github.io/projects/CL-ALFRED/"> <b> Online Continual Learning for Interactive Instruction Following Agents </b> </a>
 <br>
 <a href="https://bhkim94.github.io/">Byeonghwi Kim*</a>,
-<a href="">Minhyuk Seo*</a>,
+<a href="https://dbd05088.github.io/">Minhyuk Seo*</a>,
 <a href="http://ppolon.github.io/"> Jonghyun Choi </a>
 <br>
 <a href="https://iclr.cc/"> ICLR 2024 </a>
