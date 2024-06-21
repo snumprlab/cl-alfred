@@ -54,7 +54,7 @@ pip install torch==1.10.0+cu111 torchvision==0.11.0+cu111 torchaudio==0.10.0 -f 
 
 
 ## Dataset Download
-Clone <a href="https://huggingface.co/datasets/byeonghwikim/abp_dataset">the Hugging Face repository</a> to the path `data/json_feat_2.1.0`.
+Clone <a href="https://huggingface.co/datasets/datasets/byeonghwikim/abp_dataset">the Hugging Face repository</a> to the path `data/json_feat_2.1.0`.
 This should include numberized annotation files, ResNet-18 features, the vocabulary file, *etc.*
 <br>
 **Note**: It takes quite a large space (~1.6TB).
