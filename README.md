@@ -54,12 +54,12 @@ pip install torch==1.10.0+cu111 torchvision==0.11.0+cu111 torchaudio==0.10.0 -f 
 
 
 ## Dataset Download
-Clone <a href="https://huggingface.co/datasets/datasets/byeonghwikim/abp_dataset">the Hugging Face repository</a> to the path `data/json_feat_2.1.0`.
+Clone <a href="https://huggingface.co/datasets/byeonghwikim/abp_dataset">the Hugging Face repository</a> to the path `data/json_feat_2.1.0`.
 This should include numberized annotation files, ResNet-18 features, the vocabulary file, *etc.*
 <br>
 **Note**: It takes quite a large space (~1.6TB).
 ```
-git clone https://huggingface.co/byeonghwikim/abp_dataset data/json_feat_2.1.0
+git clone https://huggingface.co/datasets/byeonghwikim/abp_dataset data/json_feat_2.1.0
 ```
 **FAQ**: Why does it take so much space? $\rightarrow$ This is because 1) we use [surrounding views](https://bhkim94.github.io/projects/ABP/) (1 $\rightarrow$ 5 views) and 2) we cache all features of these views randomized by [image augmentation used in MOCA](https://bhkim94.github.io/projects/MOCA/) for faster training.
 
