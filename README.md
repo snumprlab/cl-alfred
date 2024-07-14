@@ -12,7 +12,7 @@
 CL-ALFRED provides two incremental learning setups: **Behavior Incremental Learning** (**Behavior-IL**) to learn novel behaviors (task types) and **Environment Incremental Learning** (**Environment-IL**) to learn to complete tasks in novel environments.
 
 We provide the code of the baselines and CAMA.
-The code is built upon <a href="">i-Blurry</a> and <a href="">ALFRED</a>.
+The code is built upon <a href="">i-Blurry</a> and <a href="https://github.com/snumprlab/abp">ABP</a>.
 
 <img src="cl-alfred.png" alt="CL-ALFRED">
 
