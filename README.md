@@ -64,7 +64,7 @@ git clone https://huggingface.co/datasets/byeonghwikim/abp_dataset data/json_fea
 **Note**: It takes quite a large space (~1.6TB).
 **FAQ**: Why does it take so much space? $\rightarrow$ This is because 1) we use [surrounding views](https://bhkim94.github.io/projects/ABP/) (1 $\rightarrow$ 5 views) and 2) we cache all features of these views randomized by [image augmentation used in MOCA](https://bhkim94.github.io/projects/MOCA/) for faster training.
 
-### Raw RGB images, depth masks, and segmentation labels
+### Raw RGB images, depth masks, and segmentation labels (Optional)
 We provide zip files that contain raw RGB images (and depth & segmentation masks) in <a href="https://huggingface.co/datasets/byeonghwikim/abp_images">the Hugging Face repository</a>, which takes about 250GB in total.
 With these images, you can extract features yourself with this <a href="https://github.com/snumprlab/abp/blob/main/models/utils/extract_resnet.py">code</a>.
 Or, you can build a smaller version of the dataset (*e.g.*, using only egocentric views without surrounding views)!
