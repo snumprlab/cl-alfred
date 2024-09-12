@@ -1,5 +1,5 @@
 # CL-ALFRED
-<a href="https://bhkim94.github.io/projects/CL-ALFRED/"> <b>Online Continual Learning for Interactive Instruction Following Agents</b> </a>          
+<a href="https://bhkim94.github.io/projects/CL-ALFRED/"> <b>Online Continual Learning for Interactive Instruction Following Agents</b> </a>           
 <br>
 <a href="https://bhkim94.github.io/">Byeonghwi Kim*</a>,
 <a href="https://dbd05088.github.io/">Minhyuk Seo*</a>,
