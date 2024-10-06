@@ -20,7 +20,7 @@ The code is built upon <a href="">i-Blurry</a> and <a href="https://github.com/s
 ## Environment
 ### Clone repository
 ```
-git clone https://github.com/yonseivnl/cl-alfred.git
+git clone https://github.com/snumprlab/cl-alfred.git
 cd cl-alfred
 export ALFRED_ROOT=$(pwd)
 ```
