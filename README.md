@@ -8,7 +8,7 @@
 <a href="https://iclr.cc/"> ICLR 2024 </a>
 
 
-**CL-ALFRED** is a benchmark that continuously learns new types of behaviors and environments for household tasks in <a href="https://github.com/askforalfred/alfred/tree/master/models">ALFRED</a>.
+**CL-ALFRED** is a benchmark that continuously learns new types of behaviors and environments for household tasks in <a href="https://github.com/askforalfred/alfred">ALFRED</a>.
 CL-ALFRED provides two incremental learning setups: **Behavior Incremental Learning** (**Behavior-IL**) to learn novel behaviors (task types) and **Environment Incremental Learning** (**Environment-IL**) to learn to complete tasks in novel environments.
 
 We provide the code of the baselines and CAMA.
